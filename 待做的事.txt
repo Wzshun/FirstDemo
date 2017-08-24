@@ -1,2 +1,0 @@
-解决iconfinder 图标水印问题。
-解决dockpanel显示位置问题
